@@ -1,0 +1,47 @@
+#main_nav{
+	background-color: #DCDCDC;
+	padding: 5px;
+	height: 100px;
+}
+
+nav ul li a{
+  color: black;
+}  
+
+#main_slider{
+	/*background-color: red;*/
+}
+
+
+  #tripeople{
+	background-color: #DCDCDC;
+  }
+
+  #banig {
+  	/*background-color: pink;*/
+  }
+
+  #trivia {
+  	background-color: #DCDCDC;
+  }
+
+  #footer{
+  	/*background-color: red;*/
+  }
+
+#footer ul li a{
+  color: black;
+}  
+
+.side-padding {
+	padding: 20px;
+}
+
+#feature p {
+	padding: 0px;
+}
+
+.same-size{
+	height: 450px;
+	width: 450px;
+}
