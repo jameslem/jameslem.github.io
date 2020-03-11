@@ -1,5 +1,7 @@
 # jameslem.github.io
 
+FOR cvmaterialdesign
+
 This is a sample project for my class MIT 323 A
 CV website plan using Material Design components
 
