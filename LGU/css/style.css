@@ -1,5 +1,5 @@
 #main_nav{
-	background-color: #DCDCDC;
+	background-color: #00e676 ;
 	padding: 5px;
 	height: 100px;
 }
@@ -14,7 +14,7 @@ nav ul li a{
 
 
   #tripeople{
-	background-color: #DCDCDC;
+	/*background-color: #00c853 ;*/
   }
 
   #banig {
@@ -22,7 +22,7 @@ nav ul li a{
   }
 
   #trivia {
-  	background-color: #DCDCDC;
+  	background-color: #00c853 ;
   }
 
   #footer{
@@ -44,4 +44,12 @@ nav ul li a{
 .same-size{
 	height: 450px;
 	width: 450px;
+}
+
+.set-center{
+  text-align: center;
+}
+
+.italic-grey {
+  color:#757575  ;
 }
