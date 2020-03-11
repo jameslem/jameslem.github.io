@@ -1,0 +1,22 @@
+.padding-20{
+	padding: 10px;
+}
+
+.flexbox {
+  display: flex;
+  flew-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-height{
+	height: 230px;
+}
+
+.main_body{
+	height: 200px;
+}
+
+.span-grey {
+	color:#546e7a;
+}
