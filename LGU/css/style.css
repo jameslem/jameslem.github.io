@@ -53,3 +53,11 @@ nav ul li a{
 .italic-grey {
   color:#757575  ;
 }
+
+.visibility {
+  visibility: hidden;
+}
+
+.big-font{
+  font-size: 200%;
+}
